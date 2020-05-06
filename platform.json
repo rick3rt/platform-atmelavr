@@ -38,6 +38,11 @@
       "optional": true,
       "version": "~5.0.0"
     },
+    "framework-arduino-avr-lgt8f": {
+      "type": "framework",
+      "optional": true,
+      "version": "1.0.0"
+    },
     "framework-arduino-avr-attiny": {
       "type": "framework",
       "optional": true,
